@@ -112,5 +112,5 @@ This project successfully demonstrates how Natural Language Processing and machi
 * scikit-learn Documentation
 * NLTK Official Documentation
 
-**Streamli app**
+**Streamlit app**
 *https://fake-news-detection02.streamlit.app/
