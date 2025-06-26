@@ -112,6 +112,5 @@ This project successfully demonstrates how Natural Language Processing and machi
 * scikit-learn Documentation
 * NLTK Official Documentation
 
----
-
-Would you like this as a downloadable `.docx` or `.pdf`? Or do you want to use this for your GitHub README?
+**Streamli app**
+*https://fake-news-detection02.streamlit.app/
